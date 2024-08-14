@@ -1,0 +1,41 @@
+.one{
+    background-color: aliceblue;
+    color: red;
+    padding: 20px;
+    margin-top:50px;
+    border-color:rgb(255, 230, 0);
+}
+.border{
+  align-content: center;
+    color :red;
+    font-size :large;
+    font: 3em Bernard MT Condensed;
+    border-width: 10px;
+    border-color: rgb(255, 0, 0);
+    background-color: springgreen;
+    text-align: center;
+    margin-top: 100px;
+    padding: 20px;
+    border-width: 10px;
+    border-style :ridge;
+    border-radius: 3rem;
+    
+}
+.button{
+    align-items: center;
+    text-align: center;
+    color :red;
+    font-size :large;
+    font: 2em Bernard MT Condensed;
+    border-radius: 35px;
+    border-width: 8px;
+    margin-top: 5em;
+    width:auto;
+    height :auto;
+    border-color: blue;
+    padding: 20px;
+    text-align: center;
+    border-style: ridge;
+    background-color: cadetblue;
+    color: blue;
+}
